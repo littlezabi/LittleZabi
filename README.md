@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @LittleZabi
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+Hi' Every one 👋<br>
+I am Professional Developer at Blueterminal. 🙏<br>
+I like to take biryani 🍴 in food with some piece of 🐔<br>
+I !like to study books 📚. Weakness<br>
+I like Web Design and Development 💞<br>
+I like listen Music during coding 🦉<br>
+I like to create automatic bots (:<br>
