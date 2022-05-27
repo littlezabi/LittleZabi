@@ -5,3 +5,5 @@ I !like to study books 📚. Weakness<br>
 I like Web Design and Development 💞<br>
 I like listen Music during coding 🦉<br>
 I like to create automatic bots (:<br>
+I like React.js (:<br>
+I like to build React Native Apps (:<br>
