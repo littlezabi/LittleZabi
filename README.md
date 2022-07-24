@@ -7,9 +7,10 @@
               <tr>
                 <th>React.js</th>
                 <td>for frontend</td>
+              </tr>
+              <tr>
                 <th>Kotlin & React Native</th>
-                <td>for android
-            development</td>
+                <td>for android development</td>
               </tr>
             </table>
             (React.js for frontend, Kotlin & React Native for android
