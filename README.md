@@ -1,8 +1,10 @@
-<h3>
+ <h3>
             Hi! I'm Zohaib <i>(aka the LittleZabi)</i> a Pakistani Full stack
             Web Developer 🦾, Android Developer, Python 🐍 Programmer, a
-            Electrical Engineer and Computer Science Student , I KNOW BUNCH OF
-            LANGUAGES 👨‍💻 <br />
+            Electrical Engineer and Computer Science Student. I love Binaries 👨‍💻
+            &nbsp;
+            <br />
+            <i>My Weapons</i>
             <br />
             <table>
               <tr>
@@ -49,5 +51,14 @@
               <b>▶ littlezabi_</b>
             </a>
             <br />
+            <br />
             <i>Coding💕is❤my 💗passion❤</i>
+            <i>
+              <br />
+              00100000 01101110 01100101 <br />
+              01110110 01100101 01110010 <br />
+              00100000 01100111 01101001 <br />
+              01110110 01100101 00100000 <br />
+              01110101 01110000 00100000 <br />
+            </i>
           </h3>
