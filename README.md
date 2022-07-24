@@ -1,10 +1,10 @@
-<h3 style={{ fontFamily: "system-ui" }}>
+<h3 style='color: orangered'>
             Hi! I'm Zohaib <i>(aka the LittleZabi)</i> a Pakistani Full stack
             Web Developer, Android Developer, Python Programmer and a Computer
             Science Student, I KNOW BUNCH OF LANGUAGES <br />
             <table>
               <tr>
-                <th style='color: orangered'>React.js</th>
+                <th >React.js</th>
                 <td>for frontend</td>
               </tr>
             </table>
