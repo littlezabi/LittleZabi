@@ -4,7 +4,7 @@
             Science Student, I KNOW BUNCH OF LANGUAGES <br />
             <table>
               <tr>
-                <th>React.js</th>
+                <th style='color: orangered'>React.js</th>
                 <td>for frontend</td>
               </tr>
             </table>
