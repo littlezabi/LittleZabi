@@ -6,6 +6,7 @@
             <br />
             <br />
             <i>My Weapons</i>
+ <hr/>
             <br />
             <table>
               <tr>
