@@ -4,7 +4,7 @@
             Electrical Engineer and Computer Science Student. I love Binaries 👨‍💻
             &nbsp;
             <br />
-<hr/>
+            <hr/>
             <i>My Weapons</i>
  
             <br />
