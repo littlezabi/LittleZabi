@@ -1,65 +1,27 @@
- 👋 Hello there! I'm Zohaib aka LittleZabi, a passionate Full Stack Web Developer, Python and JavaScript Programmer, AI Engineer, and Computer Scientist.
-<br />
-<br />
-Learn and surf with me
- <table>
-        <tr>
-          <td>Youtube 🎬</td>
-          <td>
-            <a target="_blank" href="https://www.youtube.com/channel/UCMJTfB8cZLxjvUht3o0E3qQ">
-              <b>👉 Blueterminal</b>
-            </a>
-          </td>
-        </tr>
-        <tr>
-          <td>Facebook 👉</td>
-          <td>
-            <a target="_blank" href="https://web.facebook.com/profile.php?id=100024656312796">
-              <b>😎 Zohaib Jozvi</b>
-            </a>
-          </td>
-        </tr>
-        <tr>
-          <td>Twitter ✔</td>
-          <td>
-            <a target="_blank" href="https://twitter.com/Little_Zabi_">
-                <b>🎉 @Little_Zabi_</b>
-            </a>
-          </td>
-        </tr>
-        <tr>
-          <td>Instagram 💣</td>
-          <td>
-            <a target="_blank" href="https://www.instagram.com/littlezabi_/">
-                <b>🙌 @littlezabi_</b>
-            </a>
-          </td>
-        </tr>
-        <tr>
-          <td>Tiktok 🎶</td>
-          <td>
-          <a target="_blank" href="https://www.tiktok.com/@littlezabi_">
-                <b>✌ @littlezabi_</b>
-            </a>
-          </td>
-        </tr>
-      </table>
+# 💫 About Me:
+👋 Hi there! I’m Muhammad Zohaib, a passionate full-stack developer with expertise in JavaScript, Python, and PHP (Laravel).<br>💻 I build web apps, mobile apps, and write Python/PHP scripts for the web.<br><br>🌱 Currently, I’m exploring Next.js and Prisma, but the future holds endless possibilities.<br>🛠️ My stack includes React, Next.js, Node.js, PHP, Laravel, Python, Django, Flask, AI, Svelte, and more!<br><br>🌟 I aim to create solutions that inspire and remain useful for years to come.<br>📫 Let’s connect and collaborate—feel free to reach out anytime!
 
-<br />
-<br />
-🌐 With a keen eye for design and a love for crafting elegant solutions, I create stunning web applications that combine cutting-edge technologies with intuitive user experiences. Whether it's building responsive front-end interfaces or developing robust back-end systems, I strive to deliver top-notch results.
-<br/><br/>
-💻 As a Python and JavaScript enthusiast, I enjoy exploring the limitless possibilities these languages offer. From creating scalable web applications with Flask or Django to crafting interactive user interfaces with React or Vue.js, I'm always excited to dive into new projects and push the boundaries of what's possible.
-<br/><br/>
-🧠 As an AI Engineer and Computer Scientist, I'm deeply fascinated by the world of artificial intelligence and its potential to revolutionize various industries. From implementing machine learning algorithms to developing intelligent chatbots, I leverage the power of AI to solve complex problems and enhance user experiences.
-<br/><br/>
-📚 With a solid foundation in computer science, I bring a strong analytical mindset to every project. I enjoy diving into algorithms and data structures, ensuring that my code is not only functional but also efficient and scalable.
-<br/><br/>
-🚀 Passionate about continuous learning, I stay up to date with the latest industry trends and technologies. I thrive in collaborative environments, where I can learn from and contribute to diverse teams of talented individuals.
-<br/><br/>
-🌟 Let's connect and collaborate on exciting projects! Feel free to explore my repositories and reach out to me for opportunities, partnerships, or just a friendly chat. Together, we can create amazing things that make a positive impact.
-<br/><br/>
-Happy coding! 😄👨‍💻
 
-            
-         
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100024656312796&mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__little__zabi__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/littlezabi) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/littlezabi_) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/LittleZabi) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/LittleZabi) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27745850) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@littlezabi_) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/little_zabi) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCMJTfB8cZLxjvUht3o0E3qQ) 
+
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=plastic&logo=graphql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white) ![SvelteKit](https://img.shields.io/badge/sveltekit-%23ff3e00.svg?style=plastic&logo=svelte&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=plastic&logo=Sequelize&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=plastic&logo=Gradle&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=plastic&logo=Adobe%20XD&logoColor=#FF61F6) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=plastic&logo=apollo-graphql) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=plastic&logo=socket.io&badgeColor=010101)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=littlezabi&theme=bear&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=littlezabi&theme=bear&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=littlezabi&theme=bear&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=littlezabi&theme=github_dark&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=littlezabi&limit=5&theme=ayu-mirage&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=littlezabi&icon=1&color=10)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
