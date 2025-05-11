@@ -44,6 +44,8 @@
 <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/littlezabi">
 <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/little_zabi">
 </div>
+
+
 <div align="center">
 <br/>
 <p>A passionate and dedicated <strong>Full-Stack Developer</strong> with a love for building elegant, scalable, and innovative solutions.</p>
@@ -122,6 +124,8 @@
  <img alt="Static Badge" src="https://img.shields.io/badge/Youtube-%40blueterminal-red">
  <img alt="Static Badge" src="https://img.shields.io/badge/X-%40little_zabi-lightblue">
 </div>
+
+
 
 <div align="center" style="margin-top: 40px;">
   <p>Made with ❤️ by <strong>LittleZabi</strong></p>
