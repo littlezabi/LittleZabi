@@ -67,3 +67,7 @@
   <p>Made with ❤️ by <strong>LittleZabi</strong></p>
 </div>
 
+<div align="center" style="marign: 0 10px;">
+ <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" alt="catty" />
+</div>
+
