@@ -61,13 +61,10 @@
  <img alt="Static Badge" src="https://img.shields.io/badge/X-%40little_zabi-lightblue">
 </div>
 
-
+<div align="center" style="margin-top: 80px;">
+ <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" alt="catty" />
+</div>
 
 <div align="center" style="margin-top: 40px;">
   <p>Made with ❤️ by <strong>LittleZabi</strong></p>
 </div>
-
-<div align="center" style="marign: 0 10px;">
- <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" alt="catty" />
-</div>
-
